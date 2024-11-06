@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/menu_background"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp"> <!-- Cambia por el color que desees -->
+
+    <!-- Botón para Visualizador -->
+    <!-- Ajusta los colores -->
+
+    <!-- Botón para Temporizador -->
+
+    <Button
+        android:id="@+id/btnAnimacion"
+        android:layout_width="wrap_content"
+        android:layout_height="101dp"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="#72FF5722"
+        android:padding="16dp"
+        android:text="Visualizador" />
+
+    <Button
+        android:id="@+id/btnTemporizador"
+        android:layout_width="wrap_content"
+        android:layout_height="91dp"
+        android:backgroundTint="#7E22B2FF"
+        android:padding="16dp"
+        android:text="Temporizador" />
+</LinearLayout>

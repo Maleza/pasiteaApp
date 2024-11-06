@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803296945420",
+    "project_id": "pasitea-464cb",
+    "storage_bucket": "pasitea-464cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803296945420:android:9938564df89ad0decd9529",
+        "android_client_info": {
+          "package_name": "com.example.pasitea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp97LaTDx7PVzO3iayaIT6udBOhWiBUk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
